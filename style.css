@@ -121,6 +121,7 @@ nav {
 	line-height:5rem;
 	text-decoration: none;
 	font-family: 'Roboto Condensed', sans-serif;
+	transition:all .5s linear;
 }
 .r-navigation >li >a:hover{
 	color: crimson;
